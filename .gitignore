@@ -205,3 +205,8 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Local EEG dataset workspace artifacts
+/Design Creativity EEG Dataset in Loosely Controlled Modified TTCT-F Creativity Experiments/cache/
+/Design Creativity EEG Dataset in Loosely Controlled Modified TTCT-F Creativity Experiments/output/
+/State_Classifier.conflicted-backup.ipynb
